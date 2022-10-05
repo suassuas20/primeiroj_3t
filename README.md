@@ -1,7 +1,7 @@
-#Terceiro trimestre
+# Terceiro Trimestre
 
 ## Identificação
-Nome: Pedro Arthur Nr . 41
+Pedro Arthur - Nr. 41
 
-## Assuntos
-HTML, CSS e JavaScript
+## Conteúdo
+HTML, CSS, javaScript
