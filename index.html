@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,18 +9,17 @@
     <script src="estudo.js"></script>
 </head>
 <body>
-Valor: <input id="valor"> <br>
-juros: <input id="juros"> <br>
-<button onclick="total()">Ok</button>
+    <div class="calculadora">
+        <span id="Totalgeral">Total: 0,00</span>
+ Capital: <input id="valor" type="text"> <br>
+ Juros (mensais): <input id="juros" type="text"> <br>
+ 
+ Nr. Meses: <input id="meses" type="text"> <br>
 
-
-<br><br><br><br>
-<span id="resultado"></span><br>
-Valor 1: <input id="v1" type="text"><br>
-Valor 2: <input id="v2" type="text"><br>
-<button onclick="soma()"> + </button>
-<button onclick="sub()"> + </button>
-
+ <button id="btncalc" onclick="total()"> calculadora </button>
+ <div>
+     <div>
+         <span id="ListaMes">meses</span>
+     </div>
 </body>
 </html>
-
