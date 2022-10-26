@@ -1,1 +1,30 @@
+.calculadora {
+    background: blue;
+    width: 220px;
+    padding: 20px;
 
+}
+#btncalc {
+ background: brown;
+ color: chocolate;
+ margin: 10px;
+ padding: 5px;
+
+}
+
+#btnCalc {
+
+background: chocolate;
+color: darkgreen;
+margin: 10px;
+padding: 20px;
+    
+}
+ #total {
+
+    padding: 10px;
+    margin: 10px;
+    background: darkslateblue;
+    color: palevioletred;
+    
+ }
